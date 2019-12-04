@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+  background: url('images/domenico-loia-EhTcC9sYXsw-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: 2000px 1000px;
+}
+
+.logo {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.logo:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.home {
+  float: right;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.home:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.about {
+  float: right;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.about:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.portfolio {
+  float: right;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.portfolio:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.services {
+  float: right;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.services:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.prices {
+  float: right;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.prices:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.team {
+  float: right;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.team:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.blog {
+  float: right;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.blog:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.contact {
+  float: right;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.contact:hover {
+  text-decoration: none;
+  color: white;
+}
